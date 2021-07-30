@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/console_programlama.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/console_programlama.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/console_programlama.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/console_programlama.dll
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/ref/console_programlama.dll
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/bin/Debug/net5.0/console_programlama.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.dll
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/ref/console_programlama.dll
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/console_programlama/obj/Debug/net5.0/console_programlama.genruntimeconfig.cache
