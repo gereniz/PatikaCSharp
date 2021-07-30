@@ -67,8 +67,8 @@ namespace degisken
             Console.WriteLine(newValue3);  //çıktı 40
 
             //Datetime
-            //string datetime1 = DateTime.Now.ToString("dd.MM.yyyy");
-            //Console.WriteLine(datetime1);   //çıktı 30.07.2021
+            string datetime1 = DateTime.Now.ToString("dd.MM.yyyy");
+            Console.WriteLine(datetime1);   //çıktı 30.07.2021
 
             string datetime2 = DateTime.Now.ToString("dd/MM/yyyy");
             Console.WriteLine(datetime2);   //çıktı 30/07/2021

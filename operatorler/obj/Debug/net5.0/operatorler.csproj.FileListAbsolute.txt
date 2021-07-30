@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/operatorler.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/operatorler.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/operatorler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/ref/operatorler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/bin/Debug/net5.0/operatorler.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/ref/operatorler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/operatorler/obj/Debug/net5.0/operatorler.genruntimeconfig.cache
