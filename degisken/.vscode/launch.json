@@ -9,12 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/console_programlama.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/degisken.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            //"console": "internalConsole",
-            "console": "integratedTerminal",  //vs code terminalini açar
-            //"console": "externalTerminal",  //Başka terminal açar
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

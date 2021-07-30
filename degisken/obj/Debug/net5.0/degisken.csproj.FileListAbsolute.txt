@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/degisken.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/degisken.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/degisken.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/degisken.dll
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/ref/degisken.dll
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/bin/Debug/net5.0/degisken.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.dll
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/ref/degisken.dll
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/degisken/obj/Debug/net5.0/degisken.genruntimeconfig.cache
