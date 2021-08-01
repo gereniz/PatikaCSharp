@@ -66,7 +66,7 @@ namespace operatorler
             Console.WriteLine(result1);
             result1 = number1 - number2;
             Console.WriteLine(result1);
-            result1 = number1++;
+            result1 = number1++; //önce atar sonra 1 artırır.
             Console.WriteLine(result1);
             result1 = number1 % number2;  //number1 = 11;
             Console.WriteLine(result1);
