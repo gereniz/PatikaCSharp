@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/hata_yonetimi.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/hata_yonetimi.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/hata_yonetimi.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/hata_yonetimi.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/ref/hata_yonetimi.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/bin/Debug/net5.0/hata_yonetimi.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/ref/hata_yonetimi.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hata_yonetimi/obj/Debug/net5.0/hata_yonetimi.genruntimeconfig.cache
