@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/switch_case.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/switch_case.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/switch_case.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/switch_case.dll
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/ref/switch_case.dll
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/bin/Debug/net5.0/switch_case.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.dll
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/ref/switch_case.dll
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/switch_case/obj/Debug/net5.0/switch_case.genruntimeconfig.cache
