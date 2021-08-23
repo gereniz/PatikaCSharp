@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/interface.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/interface.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/interface.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/interface.dll
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/ref/interface.dll
+/Users/gereniz/Projects/Patika/PatikaC#/interface/bin/Debug/net5.0/interface.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.dll
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/ref/interface.dll
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/interface/obj/Debug/net5.0/interface.genruntimeconfig.cache
