@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/for_loop.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/for_loop.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/for_loop.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/for_loop.dll
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/ref/for_loop.dll
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/bin/Debug/net5.0/for_loop.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.dll
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/ref/for_loop.dll
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/for_loop/obj/Debug/net5.0/for_loop.genruntimeconfig.cache
