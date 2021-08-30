@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/diziler.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/diziler.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/diziler.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/diziler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/ref/diziler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/bin/Debug/net5.0/diziler.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/ref/diziler.dll
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/diziler/obj/Debug/net5.0/diziler.genruntimeconfig.cache
