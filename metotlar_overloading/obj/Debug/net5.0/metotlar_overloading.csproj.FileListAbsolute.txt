@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/metotlar_overloading.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/metotlar_overloading.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/metotlar_overloading.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/metotlar_overloading.dll
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/ref/metotlar_overloading.dll
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/bin/Debug/net5.0/metotlar_overloading.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.dll
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/ref/metotlar_overloading.dll
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/metotlar_overloading/obj/Debug/net5.0/metotlar_overloading.genruntimeconfig.cache
