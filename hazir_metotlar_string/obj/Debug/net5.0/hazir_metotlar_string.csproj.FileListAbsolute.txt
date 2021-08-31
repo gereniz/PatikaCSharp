@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/hazir_metotlar_string.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/hazir_metotlar_string.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/hazir_metotlar_string.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/hazir_metotlar_string.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/ref/hazir_metotlar_string.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/bin/Debug/net5.0/hazir_metotlar_string.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/ref/hazir_metotlar_string.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_string/obj/Debug/net5.0/hazir_metotlar_string.genruntimeconfig.cache
