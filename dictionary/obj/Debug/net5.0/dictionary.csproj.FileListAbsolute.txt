@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/dictionary.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/dictionary.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/dictionary.dll
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/ref/dictionary.dll
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/bin/Debug/net5.0/dictionary.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.dll
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/ref/dictionary.dll
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/dictionary/obj/Debug/net5.0/dictionary.genruntimeconfig.cache
