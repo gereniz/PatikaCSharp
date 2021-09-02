@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/ref/hazir_metotlar_datetime_math.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/bin/Debug/net5.0/hazir_metotlar_datetime_math.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/ref/hazir_metotlar_datetime_math.dll
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/hazir_metotlar_datetime_math/obj/Debug/net5.0/hazir_metotlar_datetime_math.genruntimeconfig.cache
