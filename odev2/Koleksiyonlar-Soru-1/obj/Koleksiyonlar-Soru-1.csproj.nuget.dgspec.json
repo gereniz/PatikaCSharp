@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gereniz/Projects/Patika/PatikaC#/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj": {}
+    "/Users/gereniz/Projects/Patika/PatikaC#/odev2/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj": {}
   },
   "projects": {
-    "/Users/gereniz/Projects/Patika/PatikaC#/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj": {
+    "/Users/gereniz/Projects/Patika/PatikaC#/odev2/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gereniz/Projects/Patika/PatikaC#/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj",
+        "projectUniqueName": "/Users/gereniz/Projects/Patika/PatikaC#/odev2/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj",
         "projectName": "Koleksiyonlar-Soru-1",
-        "projectPath": "/Users/gereniz/Projects/Patika/PatikaC#/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj",
+        "projectPath": "/Users/gereniz/Projects/Patika/PatikaC#/odev2/Koleksiyonlar-Soru-1/Koleksiyonlar-Soru-1.csproj",
         "packagesPath": "/Users/gereniz/.nuget/packages/",
-        "outputPath": "/Users/gereniz/Projects/Patika/PatikaC#/Koleksiyonlar-Soru-1/obj/",
+        "outputPath": "/Users/gereniz/Projects/Patika/PatikaC#/odev2/Koleksiyonlar-Soru-1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gereniz/.nuget/NuGet/NuGet.Config"
