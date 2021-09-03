@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/static_sinif.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/static_sinif.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/static_sinif.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/static_sinif.dll
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/ref/static_sinif.dll
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/bin/Debug/net5.0/static_sinif.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.dll
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/ref/static_sinif.dll
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/static_sinif/obj/Debug/net5.0/static_sinif.genruntimeconfig.cache
