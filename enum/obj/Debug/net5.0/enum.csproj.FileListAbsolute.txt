@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/enum.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/enum.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/enum.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/enum.dll
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/ref/enum.dll
+/Users/gereniz/Projects/Patika/PatikaC#/enum/bin/Debug/net5.0/enum.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.dll
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/ref/enum.dll
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/enum/obj/Debug/net5.0/enum.genruntimeconfig.cache
