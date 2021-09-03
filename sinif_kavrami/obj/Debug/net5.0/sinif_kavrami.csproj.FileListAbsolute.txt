@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/sinif_kavrami.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/sinif_kavrami.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/sinif_kavrami.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/sinif_kavrami.dll
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/ref/sinif_kavrami.dll
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/bin/Debug/net5.0/sinif_kavrami.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.dll
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/ref/sinif_kavrami.dll
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/sinif_kavrami/obj/Debug/net5.0/sinif_kavrami.genruntimeconfig.cache
