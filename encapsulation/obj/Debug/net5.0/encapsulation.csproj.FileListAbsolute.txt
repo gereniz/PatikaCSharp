@@ -1,0 +1,15 @@
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/encapsulation.deps.json
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.json
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/encapsulation.runtimeconfig.dev.json
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/encapsulation.dll
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/ref/encapsulation.dll
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/bin/Debug/net5.0/encapsulation.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.csproj.AssemblyReference.cache
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfoInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.AssemblyInfo.cs
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.dll
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/ref/encapsulation.dll
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.pdb
+/Users/gereniz/Projects/Patika/PatikaC#/encapsulation/obj/Debug/net5.0/encapsulation.genruntimeconfig.cache
